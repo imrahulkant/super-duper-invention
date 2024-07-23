@@ -1,0 +1,3 @@
+Array
+
+-  Kadane's Algorithm
